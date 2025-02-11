@@ -1,16 +1,3 @@
 # credbevy
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To setup, basically have flutter and dart installed on your local computer then clone this repo on your desired IDE which flutter was installed. after which you'll be asked to pu get some packaged, do that. 
+Next step is to connect an android device or an emulator the run the application and woala!
